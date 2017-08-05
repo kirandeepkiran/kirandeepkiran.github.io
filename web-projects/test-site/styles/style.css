@@ -1,0 +1,31 @@
+html{
+    background-color:plum;
+    font-size: 10px;/*base font size*/
+    font-family: 'Indie Flower', cursive;/*google font*/
+
+}
+body{
+    background-color: #CB1A93;
+    margin:0 auto;/*top,rifgt,bottom,left||top,horizontal,bottom||verticle,horizontal-->global values inherit, initial, unset*/
+    padding: 0 20px 20px 20px;
+    width: 600px;
+    border:25px solid black;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color:black;
+    text-shadow: 3px 3px 3px purple;/*horizontatl -ve left shadow, vertical, blurr radius*/
+}
+p,li{
+font-size: 20px;
+line-height: 2;
+letter-spacing: 1px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    
+}
